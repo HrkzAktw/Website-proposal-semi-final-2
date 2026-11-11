@@ -1,0 +1,145 @@
+[
+    {
+        "studentId": "2024303043",
+        "studentName": "Santos, John Aaron Michael",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "3E",
+        "violationType": "Minor",
+        "category": "Policy Breaches",
+        "description": "Incomplete uniform or ID not worn",
+        "timestamp": "11\/4\/2026, 9:58:54 AM"
+    },
+    {
+        "studentId": "2022100156",
+        "studentName": "Balagtas, Alexander James",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "3E",
+        "violationType": "Clear",
+        "category": "Good Standing",
+        "description": "Good standing - no violations on record",
+        "timestamp": "11\/4\/2026, 10:04:20 AM"
+    },
+    {
+        "studentId": "2022100524",
+        "studentName": "Lolo, Kambing Baka B.",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "3E",
+        "violationType": "Major",
+        "category": "Violence & Physical Harm",
+        "description": "Fighting, bullying or physical harm to others",
+        "timestamp": "11\/4\/2026, 10:29:25 AM"
+    },
+    {
+        "studentId": "2022460524",
+        "studentName": "Mono, logue",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "3E",
+        "violationType": "Clear",
+        "category": "Good Standing",
+        "description": "Good standing - no violations on record",
+        "timestamp": "11\/4\/2026, 10:37:24 AM"
+    },
+    {
+        "studentId": "2020100921",
+        "studentName": "Bognot, Joswin Angelo M.",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "",
+        "violationType": "Clear",
+        "category": "Good Standing",
+        "description": "Good standing - no violations on record",
+        "timestamp": "11\/4\/2026, 11:33:34 AM"
+    },
+    {
+        "studentId": "2024303048",
+        "studentName": "Truno, John Patrick Kennedy",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "3E",
+        "violationType": "Clear",
+        "category": "Good Standing",
+        "description": "Good standing - no violations on record",
+        "timestamp": "11\/4\/2026, 11:51:17 AM"
+    },
+    {
+        "studentId": "2024303012",
+        "studentName": "keka, keni",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "3E",
+        "violationType": "Minor",
+        "category": "Policy Breaches",
+        "description": "Disruptive or noisy behavior in class areas",
+        "timestamp": "11\/6\/2026, 4:58:32 AM"
+    },
+    {
+        "studentId": "2022100119",
+        "studentName": "Nokarin, ka",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "3E",
+        "violationType": "Major",
+        "category": "Violence & Physical Harm",
+        "description": "Fighting, bullying or physical harm to others",
+        "timestamp": "11\/6\/2026, 5:00:06 AM"
+    },
+    {
+        "studentId": "2021002525",
+        "studentName": "Baul, Ernest Bryan B.",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "3E",
+        "violationType": "Clear",
+        "category": "Good Standing",
+        "description": "Disciplinary archive records purged via Administrative Profile Override.",
+        "timestamp": "11\/5\/2026, 7:03:34 PM"
+    },
+    {
+        "studentId": "2021002525",
+        "studentName": "Baul, Ernest Bryan B.",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "3E",
+        "violationType": "Major",
+        "category": "Violence & Physical Harm",
+        "description": "Fighting, bullying or physical harm to others",
+        "timestamp": "11\/5\/2026, 7:06:17 PM"
+    },
+    {
+        "studentId": "2021002525",
+        "studentName": "Baul, Ernest Bryan B.",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "3E",
+        "violationType": "Minor",
+        "category": "Policy Breaches",
+        "description": "Incomplete uniform or ID not worn",
+        "timestamp": "11\/5\/2026, 7:06:29 PM"
+    },
+    {
+        "studentId": "2021002525",
+        "studentName": "Baul, Ernest Bryan B.",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "3E",
+        "violationType": "Minor",
+        "category": "Policy Breaches",
+        "description": "Disruptive or noisy behavior in class areas",
+        "timestamp": "11\/11\/2026, 9:25:11 AM"
+    },
+    {
+        "studentId": "2021002525",
+        "studentName": "Baul, Ernest Bryan B.",
+        "course": "BSIT",
+        "yearLevel": "3rd Year",
+        "section": "3E",
+        "violationType": "Clear",
+        "category": "Good Standing",
+        "description": "Student record initialized in clear behavioral standing.",
+        "timestamp": "11\/11\/2026, 9:27:55 AM"
+    }
+]
